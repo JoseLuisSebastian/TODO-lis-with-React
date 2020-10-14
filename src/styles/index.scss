@@ -11,3 +11,23 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+.container {
+    background-color: rgb(206, 202, 202);
+    width: 100%;
+
+}
+
+input {
+    width: 25%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+}
+
+li {
+    width: 25%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    margin-left: 370px;
+}
